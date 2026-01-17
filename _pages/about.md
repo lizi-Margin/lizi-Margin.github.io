@@ -3,56 +3,142 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 关于我
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+我是孙浩程，北京邮电大学大数据科学与技术专业本科生（2022-现在）。专业排名前10/55，CET-6达到499分。
 
+我主要致力于研究**强化学习、多智能体系统和游戏AI**领域。在空战对抗、游戏智能体和LLM预训练方面具有丰富的工程实践经验。热爱编程，精通Python和C++，长期使用Linux操作系统。
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+📧 **Email**: sunhaocheng@bupt.edu.cn
+📱 **微信**: edmk-2017
+📞 **电话**: (+86) 137-1891-6887
+🔗 **GitHub**: [lizi-Margin](https://github.com/lizi-Margin)
 
-# 📝 Publications 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 🏆 竞赛成果
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## 国家级竞赛
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **冠军** | 第二届洪都杯智能空战大赛（全国609所高校参赛）
+  - *2024.07* | 奖金 CNY ¥50,000 | 贡献度 50%
+  - 采用分层式目标分配策略和强化学习相结合，完成6v6空战对抗
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **一等奖** | 第十八届全国大学生软件创新大赛
+  - *2025.05* | 奖金 CNY ¥15,000 | 贡献度 95%
+  - 视觉驱动游戏AI项目，在无API限制下实现复杂游戏策略
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **季军** | 第一届洪都杯智能空战大赛（全国609所高校参赛）
+  - *2023.11* | 奖金 CNY ¥30,000 | 单人参赛
+  - 基于行为树和策略匹配的超视距空战专家系统
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **季军** | 龙智杯智能空战大赛（全国611所高校参赛）
+  - *2024.09* | 奖金 CNY ¥10,000 | 单人参赛
+  - 强化学习与飞行控制律的结合应用
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **第七名** | 智翼杯直升机空地红蓝对抗大赛（全国602所高校参赛）
+  - *2024.11*
+  - 复杂工程环境下的多智能体协同决策
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+---
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📝 项目经历
+
+## SIRI-Agent: 手机游戏上的视觉驱动策略
+
+**GitHub**: [lizi-Margin/SIRI](https://github.com/lizi-Margin/SIRI) | **时间**: 2025.02 - 2025.05
+
+- 在手机游戏CODM（Call of Duty Mobile）上实现AI Agent模仿人类操作，突破无API接口和实时性要求的技术瓶颈
+- 通过构建逆动力模型标定游戏视频，扩大数据集规模，显著缓解行为克隆算法的误差积累问题
+- 实现多视角融合策略网络，将分散在游戏画面中的多部分视觉信息进行有效融合
+
+---
+
+## 基于分层强化学习的多智能体近距空战对抗
+
+**竞赛**: 第二届洪都杯智能空战大赛（冠军）| **时间**: 2024.06
+
+- 设计队伍采用分层式目标分配策略和强化学习相结合，完成6v6复杂空战对抗
+- 负责单智能体强化学习模块开发：将PPO算法与自定义飞控律深度结合
+- 显著提升训练效率与控制稳定性，使得多智能体协同作战效果提升30%以上
+
+---
+
+## 基于行为树和策略匹配的超视距空战专家系统
+
+**竞赛**: 龙智杯智能空战大赛 | **时间**: 2024.07 - 2024.10
+
+- 构建多种基于主流战术的规则模型，具备对对手策略的模糊匹配能力
+- 参赛平台使用纯C/C++实现，架构复杂度高，工程挑战大
+- 通过领域知识的充分利用，在无深度学习模型的约束下实现高质量决策
+
+---
+
+## BadLLM-0.6B: 从随机参数开始预训练LLM
+
+**时间**: 2025.08
+
+- 使用130GB网络小说数据在单张H20 GPU上从头预训练一个0.6B参数规模的LLM
+- 使LLM从完全随机状态获得基本语言能力，验证预训练流程的正确性
+- 深入理解LLM预训练的核心机制和工程细节
+
+---
+
+## 对开源强化学习环境CloseAirCombat的改进
+
+**时间**: 2024.05
+
+- 将自己编写的近距空战规则模型融入该环境，支持1-10级难度等级设置，便于课程学习
+- 引入比例引导法改进原有导弹控制律，使环境可模拟超视距空战场景
+- 增强环境的仿真保真度和教学价值
+
+---
+
+# 🔬 科研经历
+
+- **中科院自控所实习** | 复杂系统认知与决策重点实验室
+  - *2025.01* | 研究模仿学习（BC、DAgger、AIRL）在集群对抗中的应用
+
+- **APSA-MAPPO多智能体研究项目**
+  - 在异构多智能体空战情景下，结合自适应参数共享机制和差异化奖励函数指导异构战机协同作战
+  - 引入注意力机制强化关键敌人特征识别
+
+- **参与科研论文**
+  - 《基于代理辅助差分进化算法的层次式机动决策与控制》
+  - 发表于期刊：Drones（中科院二区）
+
+---
+
+# 💻 技能
+
+- **编程语言**: Python (热爱), C++ (Unreal C++, Eigen), Bash
+- **深度学习框架**: PyTorch, TensorFlow
+- **强化学习**: PPO, DQN, MAPPO, 多智能体RL
+- **开发工具**: Git, Linux (Arch Linux长期用户), Docker
+- **其他技能**: 行为树、规则引擎、视觉处理、游戏开发
+
+---
+
+# 📖 教育背景
+
+- **北京邮电大学** | 大数据科学与技术专业（本科）
+  - *2022 - 现在* | 保研排名：专业前10/55 | CET-6: 499分
+
+- **北师大二附中** | 高中
+  - *2019 - 2022*
+
+---
+
+# 📍 联系方式
+
+- 📧 **邮箱**: sunhaocheng@bupt.edu.cn
+- 📱 **微信**: edmk-2017
+- 📞 **电话**: (+86) 137-1891-6887
+- 💻 **GitHub**: [github.com/lizi-Margin](https://github.com/lizi-Margin)
