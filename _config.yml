@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "孙浩程"
-description              : "北京邮电大学 大数据科学与技术专业 | 强化学习与多智能体系统 | 游戏AI"
+title                    : "Hangcheng Sun"
+description              : "Undergraduate Student at Beijing University of Posts and Telecommunications"
 repository               : "lizi-Margin/lizi-Margin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "孙浩程"
+  name             : "Haocheng Sun"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "北京邮电大学"
-  location         : "北京, 中国"
+  bio              : "孙浩程"
+  location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    :
   email            : "sunhaocheng@bupt.edu.cn"
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Haocheng-Sun-6"
   uri              :
   bitbucket        :
   codepen          :
