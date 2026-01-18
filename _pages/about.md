@@ -43,7 +43,7 @@ I enjoy building realistic environments and agent systems using tools like Unrea
 
 - Languages: Python, Modern C++, Unreal Engine C++
 - ML Frameworks: PyTorch
-- Systems: Arch Linux (primary), Windows
+- Systems: Arch Linux, Windows
 
 ---
 
