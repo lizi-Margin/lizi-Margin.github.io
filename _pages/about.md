@@ -31,11 +31,11 @@ I enjoy building realistic environments and agent systems using tools like Unrea
 
 - 2024.11 🏅 7th Place at the ZhiYi Cup Helicopter Air–Ground Red-Blue Confrontation Challenge. Multi-agent collaborative decision-making in complex engineering environments.
 
-- 2024.09 🏆 Third Prize at the LongZhi Cup Intelligent Air Combat Competition (CNY ¥10,000). Behavior-tree and strategy-matching-based expert system for BVR air combat.
+- 2024.09 🏆 3rd Place (Third Prize) at the LongZhi Cup Intelligent Air Combat Competition (CNY ¥10,000). Behavior-tree and strategy-matching-based expert system for BVR air combat.
 
 - 2024.07 🏆 Champion of the 2nd Hongdu Cup Intelligent Air Combat Competition (CNY ¥50,000). Multi-level target allocation with reinforcement learning for 6v6 WVR air combat.
 
-- 2023.11 🏆 Third Prize at the 1st Hongdu Cup Intelligent Air Combat Competition (CNY ¥30,000). Well-tunned behavior-tree.
+- 2023.11 🏆 3rd Place (Third Prize) at the 1st Hongdu Cup Intelligent Air Combat Competition (CNY ¥30,000). Well-tuned behavior-tree.
 
 ---
 
