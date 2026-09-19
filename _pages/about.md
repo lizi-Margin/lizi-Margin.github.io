@@ -25,7 +25,7 @@ I enjoy building realistic environments and agent systems using tools like Unrea
 
 - 2025.05 🏆 First Prize at the 18th National College Student Software Innovation Competition (CNY ¥15,000). Vision-driven game AI agent achieving complex strategies without privileged APIs.
 
-- 2025.01–2025.03 🔬 Research Intern at the Complex Systems Cognition and Decision Laboratory, Institute of Automation, Chinese Academy of Sciences (CASIA).
+- 2025.01 🔬 Research Intern at the Institute of Automation, Chinese Academy of Sciences (CASIA). Worked on imitation learning for multi-agent adversarial scenarios.
 
 - 2025.01 📄 Hierarchical Online Air Combat Maneuver Decision Making and Control via Surrogate-Assisted Differential Evolution, Drones.
 
