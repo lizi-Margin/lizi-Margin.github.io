@@ -19,6 +19,8 @@ I enjoy building realistic environments and agent systems using tools like Unrea
 ---
 # 🔥 News
 
+- 2026.08 — Our [UnrealCV](https://github.com/unrealcv/unrealcv) was selected as a CCF ODTC Class A project.
+
 - 2026.02 📄 Biased random masked attention MAPPO algorithm for zero-shot scale generalization of multi-UAV air combat, Journal of Computational Design and Engineering. [DOI](https://doi.org/10.1093/jcde/qwag014)
 
 - 2025.12 📄 Scalable Pursuit–Evasion Game for Multi-Fixed-Wing UAV via Dynamic Target Assignment & Hierarchical RL, Drones.
